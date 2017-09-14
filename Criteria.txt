@@ -1,4 +1,16 @@
 Timeliness of task completion
-Team Communication
-Team Cooperation
-Quality of Work/Product
+  25 - Performance does not render issues with team 
+  15 - Performance causes problems that are fixable
+  5  - Major deadline miss or feature loss due to single person failure.
+Team Communication 
+  25 - Performance does not render issues with team 
+  15 - Performance causes problems that are fixable
+  5  - Major deadline miss or feature loss due to single person failure.
+Team Cooperation 
+  25 - Performance does not render issues with team 
+  15 - Performance causes problems that are fixable
+  5  - Major deadline miss or feature loss due to single person failure.
+Quality of Work/Product 
+  25 - Performance does not render issues with team 
+  15 - Performance causes problems that are fixable
+  5  - Major deadline miss or feature loss due to single person failure.
