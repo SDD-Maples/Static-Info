@@ -1,0 +1,23 @@
+Alfred
+21
+Senior CS Student
+Living Situation: Has a car on Campus; Living @ City station
+Income: -$30000
+Interests:
+    League of Legends
+    Girls
+    Graduating
+    1997 Toyota Camary
+    Helping batman
+Motivations:
+    Get a Job
+    Eat
+    Sleep
+    Convienece
+
+5 reasons why:
+1. Save Time on parking space
+2. Wants to just go to open lot without manuvering for parking
+3. Closest Parking space to kitchen
+4. Know if it's worthwhile to drive to North lot
+5. Can support local bussiness
