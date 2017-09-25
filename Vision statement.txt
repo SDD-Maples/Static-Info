@@ -1,0 +1,3 @@
+Vision Statment:
+
+We wish to implement a service where by user can find which parking lots around the Rensselaer campus have parking spaces avalaible at any given time.
